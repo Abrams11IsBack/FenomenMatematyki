@@ -1,0 +1,7 @@
+body {
+    background-color: aquamarine;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
